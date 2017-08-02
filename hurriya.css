@@ -1,0 +1,335 @@
+body{
+  text-align: center;
+  margin: 0 auto;
+  font-family: Montserrat;
+  background-color:#0d493b;
+  color: white;
+  padding-top:20px;
+}
+.container-fluid {
+  margin-right:10%;
+  margin-left:10%;
+  padding-bottom:20px;
+  text-align:center;
+  color:#2effee;
+  font-family:"cosmic sans";
+  display: Inline;
+}
+.container{
+  background-color: blue;
+  font-weight: 300;
+  position: relative;
+  top:80%;
+  width:80%;
+  color: white;
+  font-family:'cosmic sans';
+}
+.navbar-nav {
+size: 18px;
+color:black;
+font-family: sans-serif
+}
+p {
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 2.2em;
+  text-align: right;
+  font-weight: bold;
+  padding: 5px 10px 5px 10px;
+}
+.active {
+  background-color: seagreen;
+  border:1px inset black;
+}
+.dropdown-menu {
+  color:black;
+  size:15px;
+  font-family:serif;
+}
+.main-content {
+  background-color: seagreen;
+ border: 4px solid black; 
+}
+#Home {
+  background-image: ;
+  background-size: cover;
+  background-repeat: ;
+  box-shadow: 5px 0px 5px 0px;
+  border: 3px solid black;
+}
+#message {
+  border: 2px solid black;
+  text-align: center;
+  line-height: 1.9em;
+  letter-spacing: 0.04em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+#hadeeth {
+  text-align: left;
+  line-height: 1.9em;
+  letter-spacing: 0.04em;
+  color: maroon;
+  padding-left: 19px;
+  padding-bottom: 10px;
+}
+.jitu {
+  border: 2px solid black;
+  width: 300px;
+  height: 600px;
+  background-color: whitesmoke;
+}
+#learn {
+  width:100px;
+  height: 50px;
+  box-shadow: 5px 1px 5px 1 px;
+  font-family: 'Times New Roman', Times, serif
+}
+.social-icons {
+  background-color: whitesmoke;
+  font-family: serif;
+  display: inline;
+  box-shadow: 5px 1px 5px 1 px;
+  color: black;
+  padding-bottom: 9px;
+}
+#twit {
+  background-color: whitesmoke;
+  font-family: serif;
+  display: inline;
+  box-shadow: 5px 1px 5px 1 px;
+  color: black;
+}
+.About-content {
+background-color: whitesmoke;
+font-family: Arial, Helvetica, sans-serif ;
+border: 2px solid black;
+color: black;
+background-image:d;
+padding-top: 7px;
+padding-bottom: 10px; 
+}
+.answer {
+  text-align: left;
+  line-height: 1.9em;
+  letter-spacing: 0.04em;
+  color: black;
+  padding-left: 19px;
+  padding-bottom: 10px;
+}
+#intro {
+  text-align: left;
+  line-height: 1.9em;
+  letter-spacing: 0.04em;
+  color: maroon;
+  padding-left: 40px;
+  padding-bottom: 10px;
+}
+#mission {
+text-align: left;
+background-color: grey;
+font-family: Arial, Helvetica, sans-serif ;
+border: 2px solid black;
+color: black;
+background-image:d;
+padding-top: 7px;
+padding-bottom: 10px;
+} 
+.state {
+  color: rebeccapurple;
+  padding-left: 17px;
+}
+#vission {
+text-align: left;
+background-color: grey;
+font-family: Arial, Helvetica, sans-serif ;
+border: 2px solid black;
+color: black;
+background-image:d;
+padding-top: 7px;
+padding-bottom: 10px;
+}
+#advisory {
+text-align: left;
+background-color: grey;
+font-family: Arial, Helvetica, sans-serif ;
+border: 2px solid black;
+color: black;
+background-image:d;
+padding-top: 7px;
+padding-bottom: 10px;
+}
+.list {
+ text-align: left;
+  line-height: 1.9em;
+  letter-spacing: 0.02em;
+  color: black;
+  padding-left: 29px;
+  padding-bottom: 10px; 
+}
+#executive {
+background-color:;
+font-family: Arial, Helvetica, sans-serif ;
+border: 2px solid black;
+color: black;
+background-image:d;
+padding-top: 7px;
+padding-bottom: 10px; 
+background-image: ;
+background-repeat:;
+}
+#gallery {
+  background-color: gold;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 2px solid black;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  background-image: ;
+
+}
+#project {
+  border: 2px solid black;
+  background-image: ;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+
+}
+#prison {
+background-color:seagreen;
+font-family: Arial, Helvetica, sans-serif ;
+border: 2px solid black;
+color: black;
+background-image:d;
+padding-top: 17px;
+padding-bottom: 10px; 
+background-image: ;
+background-repeat:;
+}
+.logo-container {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left:15px; 
+}
+#support {
+background-color:seagreen;
+font-family: Arial, Helvetica, sans-serif ;
+border: 2px solid black;
+color: black;
+background-image:d;
+padding-top: 17px;
+padding-bottom: 10px; 
+background-image: ;
+background-repeat:;
+}
+#scheme {
+background-color:seagreen;
+font-family: Arial, Helvetica, sans-serif ;
+border: 2px solid black;
+color: black;
+background-image:d;
+padding-top: 17px;
+padding-bottom: 10px; 
+background-image: ;
+background-repeat:;
+}
+#book {
+background-color:seagreen;
+font-family: Arial, Helvetica, sans-serif ;
+border: 2px solid black;
+color: black;
+background-image:d;
+padding-top: 17px;
+padding-bottom: 10px; 
+background-image: ;
+background-repeat:;
+}
+#trend {
+background-color:seagreen;
+font-family: Arial, Helvetica, sans-serif ;
+border: 2px solid black;
+color: black;
+background-image:d;
+padding-top: 7px;
+padding-bottom: 10px; 
+background-image: ;
+background-repeat:;
+}
+.orgs {
+background-color:maroon;
+font-family: Arial, Helvetica, sans-serif ;
+border: 2px solid black;
+color: black;
+background-image:d;
+padding-top: 17px;
+padding-bottom: 10px; 
+background-image: ;
+background-repeat:;
+float: ;
+position: ;
+}
+.our {
+background-color:maroon;
+font-family: Arial, Helvetica, sans-serif ;
+border: 2px solid black;
+color: black;
+background-image:d;
+padding-top: 17px;
+padding-bottom: 10px; 
+background-image: ;
+background-repeat:;
+float: ;
+position: ;
+}
+.arts {
+background-color:maroon;
+font-family: Arial, Helvetica, sans-serif ;
+border: 2px solid black;
+color: black;
+background-image:url();
+background-position: contain; 
+padding-top: 17px;
+padding-bottom: 10px; 
+background-image: ;
+background-repeat:;
+float: ;
+position: ;
+}
+/*work on below code*/
+#searchform {float: right; margin:30px 0 15px 0; background: transparent url(i/bg_search.png) no-repeat;} 
+fieldset.search { 
+    border: none; 
+    width: 146px; 
+      
+    } 
+.search input, .search button { 
+    border: none; 
+    float: left; 
+} 
+.search input.box { 
+    color: #a4a3a3; 
+    font-size: 1.2em; 
+    width: 109px; 
+    height: 17px; 
+    padding: 5px; 
+    vertical-align:middle; 
+    margin: 0; 
+    background:none; 
+    outline: none; 
+} 
+.search input.box:focus { 
+    background: none; 
+    outline: none; 
+} 
+.search button.btn { 
+    width: 27px; 
+    height: 27px; 
+    cursor: pointer; 
+    text-indent: -9999px; 
+    background: url(i/bg_search.png) no-repeat top right; 
+} 
+.search button.btn:hover { 
+    background: url(i/bg_search.png) no-repeat bottom right; 
+}
+  /*to here*/
