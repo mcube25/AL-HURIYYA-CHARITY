@@ -318,6 +318,12 @@ fieldset.search {
     background:none; 
     outline: none; 
 } 
+  .social-icons {
+    padding-top: 10px;
+    padding-bottom: 18px;
+    box-shadow: 1px 2px 1px 2px;
+    background-color: lightgreen
+  }
 .search input.box:focus { 
     background: none; 
     outline: none; 
